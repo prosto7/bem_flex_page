@@ -1,4 +1,4 @@
-# bem_flex_dz
+# bem_flex_page
 
 Пример верстки макета из фотошопа
 HTML/CSS
